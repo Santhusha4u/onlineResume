@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name":"Santhusha Alwis",
+    "occupation":"UNDERGRADUATE | UNIVERSITY OF SRI JAYEWARDENEPURA",
+    "description":"I am a highly motivated, selfdriven and an ambitious individual whose motivation lies with facing challenges head-on. ",
+    "image":"profilepic.jpg",
+    "bio":"My passion is towards new experiences, whatever the technology in the field of Computer Science, preference on pursuing new knowledge to create, experiment and to be able to solve problems creatively in a highly challenging field of study",
+    "contactmessage":"Don't hesitate to send me message",
+    "email": "alwissanthu@gmail.com",
+    "phone": "0702003132",
+    "address":{
+      "street":"(Bokundara)",
+      "city":"(Piliyandala)",
+      "state":"(Sri Lanka)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.santhushaalwis.me",
+    "resumedownload":"http://www.santhushaalwis.me",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Enthusiastic learner",
+    "education":[
+      {
+        "school":"University of Sri Jayewardenepura",
+        "degree":"Bsc. Applied Sciences",
+        "graduated":"2017-21",
+        "description":"Specializing in Computer Science"
+      },
+      {
+        "school":"Ananda College",
+        "degree":"Upto Advanced Levels",
+        "graduated":"August 2015",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Society of Computer Science",
+        "title":"President",
+        "years":"September 2020 - Present",
+        "description":""
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"C Language",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"C#",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Lakshilpa",
+        "category":"Online Market place for craftsmen in Sri Lanka",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.lakshilpa.com"
+      },
+      {
+        "title":"Fitonclothing",
+        "category":"(offline now) An E-commmerce fashion store",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.fitonclothing.com"
+      },
+      {
+        "title":"Change Woocommerce Currency symbol plugin",
+        "category":"Plugin for woocommerce",
+        "image":"original-thai-food.jpg",
+        "url":""
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"www.santhushaalwis.me"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":""
+      },
+      {
+        "text":"",
+        "user":""
+      }
+    ]
+  }
+}
