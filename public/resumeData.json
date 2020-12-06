@@ -119,19 +119,14 @@
       {
         "title":"Lakshilpa",
         "category":"Online Market place for craftsmen in Sri Lanka",
-        "image":"canadian-wanderlust.jpg",
+        "image":"lakshilpa.png",
         "url":"https://www.lakshilpa.com"
       },
-      {
-        "title":"Fitonclothing",
-        "category":"(offline now) An E-commmerce fashion store",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.fitonclothing.com"
-      },
+
       {
         "title":"Change Woocommerce Currency symbol plugin",
         "category":"Plugin for woocommerce",
-        "image":"original-thai-food.jpg",
+        "image":"woocommerce_logo.jpg",
         "url":""
       },
       {
@@ -139,6 +134,12 @@
         "category":"A React based resume website template",
         "image":"resume-website.jpg",
         "url":"www.santhushaalwis.me"
+      },
+       {
+        "title":"AnyTouch",
+        "category":"Application to create Interactive touch interfaces",
+        "image":"anytouch.png",
+        "url":""
       }
     ]
   },
