@@ -33,10 +33,15 @@ class Contact extends Component {
 
          </div>
 
+         <div>
+               
+                          
+         </div>
+
          <div className="row">
             <div className="eight columns">
 
-               <form action="mailto:santhusha4u@gmail.com" method="GET" id="contactForm" name="contactForm">
+               <form action="mailto:alwissanthu@gmail.com" method="GET" id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
@@ -60,7 +65,7 @@ class Contact extends Component {
                   </div>
 
                   <div>
-                     <button className="submit">Submit</button>
+               
                       <input type="submit" value="Send"></input>
                      
 
@@ -71,7 +76,9 @@ class Contact extends Component {
 					</fieldset>
 				   </form>
 
-           <div id="message-warning"> Error boy</div>
+               
+
+           <div id="message-warning"> Error body</div>
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
