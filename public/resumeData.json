@@ -7,12 +7,12 @@
     "bio":"My passion is towards new experiences, whatever the technology in the field of Computer Science, preference on pursuing new knowledge to create, experiment and to be able to solve problems creatively in a highly challenging field of study",
     "contactmessage":"Don't hesitate to send me message",
     "email": "alwissanthu@gmail.com",
-    "phone": "0702003132",
+    "phone": "0772661112",
     "address":{
-      "street":"(Bokundara)",
-      "city":"(Piliyandala)",
-      "state":"(Sri Lanka)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"2/81, Bokundara",
+      "city":"Piliyandala",
+      "state":"Sri Lanka",
+      "zip": ""
     },
     "website": "http://www.santhushaalwis.me",
     "resumedownload":"http://www.santhushaalwis.me",
@@ -41,9 +41,9 @@
     "education":[
       {
         "school":"University of Sri Jayewardenepura",
-        "degree":"Bsc. Applied Sciences",
+        "degree":"Bsc. in Applied Sciences",
         "graduated":"2017-21",
-        "description":"Specializing in Computer Science"
+        "description":"Computer Science Sp."
       },
       {
         "school":"Ananda College",
@@ -58,7 +58,15 @@
         "title":"President",
         "years":"September 2020 - Present",
         "description":""
+      },
+
+       {
+        "company":"Anandian Astronomical Association",
+        "title":"Senior Organizer",
+        "years":"2014-15",
+        "description":""
       }
+      
       
     ],
     "skills":[
