@@ -17,66 +17,22 @@ class Contact extends Component {
     return (
       <section id="contact">
 
-         <div className="row section-head">
-
-            <div className="two columns header-col">
-
-               <h1><span>Get In Touch.</span></h1>
-
-            </div>
-
-            <div className="ten columns">
-
-                  <p className="lead">{message}</p>
-
-            </div>
-
-         </div>
-
-         <div>
-               
-                          
-         </div>
 
          <div className="row">
             <div className="eight columns">
+            
 
-               <form action="mailto:alwissanthu@gmail.com" method="GET" id="contactForm" name="contactForm">
-					<fieldset>
+            <form action="mailto:alwissanthu@gmail.com" method="GET" target="_blank" encType="text/plain">
+             <h1 class="title">For Enquiries, send me an Email!</h1>
+             <br></br>
+             <br></br>
+               <div class="field"><label class="label" for="subject">Subject</label>
+               <input name="subject" id="subject" type="text" class="input" value="Subject here"/></div>
+                  <div class="field"><label class="label" for="body">Message</label>
+                  <textarea class="textarea" name="body" id="body">Your enquiries here</textarea></div>
+               <div><input type="submit" value="Create Email" class="button is-primary"/></div>
+            </form>
 
-                  <div>
-						   <label htmlFor="contactName">Name <span className="required">*</span></label>
-						   <input type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={this.handleChange}/>
-                  </div>
-
-                  <div>
-						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-						   <input type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.handleChange}/>
-                  </div>
-
-                  <div>
-						   <label htmlFor="contactSubject">Subject</label>
-						   <input type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" onChange={this.handleChange}/>
-                  </div>
-
-                  <div>
-                     <label htmlFor="contactMessage">Message <span className="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
-                  </div>
-
-                  <div>
-               
-                      <input type="submit" value="Send"></input>
-                     
-
-                     <span id="image-loader">
-                        <img alt="" src="images/loader.gif" />
-                     </span>
-                  </div>
-					</fieldset>
-				   </form>
-
-               
 
            <div id="message-warning"> Error body</div>
 				   <div id="message-success">

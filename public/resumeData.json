@@ -5,7 +5,7 @@
     "description":"I am a highly motivated, selfdriven and an ambitious individual whose motivation lies with facing challenges head-on. ",
     "image":"profilepic.jpg",
     "bio":"My passion is towards new experiences, whatever the technology in the field of Computer Science, preference on pursuing new knowledge to create, experiment and to be able to solve problems creatively in a highly challenging field of study",
-    "contactmessage":"For Inquiries",
+    "contactmessage":"For Enquiries",
     "email": "alwissanthu@gmail.com",
     "phone": "0772661112",
     "address":{
@@ -14,8 +14,8 @@
       "state":"Sri Lanka",
       "zip": ""
     },
-    "website": "http://www.santhushaalwis.me",
-    "resumedownload":"http://www.santhushaalwis.me",
+    "website": "www.santhushaalwis.me",
+    "resumedownload":"https://drive.google.com/file/d/11f_kR2lZF5ccBEkkSL0d-JSKe8pVGrVL/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -117,7 +117,7 @@
         "title":"Change Woocommerce Currency symbol plugin",
         "category":"Plugin for woocommerce",
         "image":"woocommerce_logo.jpg",
-        "url":""
+        "url":"https://github.com/Santhusha4u"
       },
       {
         "title":"Resume Website",
@@ -129,7 +129,7 @@
         "title":"AnyTouch",
         "category":"Application to create Interactive touch interfaces",
         "image":"anytouch.png",
-        "url":""
+        "url":"https://github.com/Santhusha4u"
       }
     ]
   },
