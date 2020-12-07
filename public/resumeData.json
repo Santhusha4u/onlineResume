@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Santhusha Alwis",
-    "occupation":"UNDERGRADUATE | UNIVERSITY OF SRI JAYEWARDENEPURA",
+    "occupation":"UNDERGRADUATE | FULLSTACK DEVELOPER | ENTRAPRENEUR",
     "description":"I am a highly motivated, selfdriven and an ambitious individual whose motivation lies with facing challenges head-on. ",
     "image":"profilepic.jpg",
     "bio":"My passion is towards new experiences, whatever the technology in the field of Computer Science, preference on pursuing new knowledge to create, experiment and to be able to solve problems creatively in a highly challenging field of study",
-    "contactmessage":"Don't hesitate to send me message",
+    "contactmessage":"For Inquiries",
     "email": "alwissanthu@gmail.com",
     "phone": "0772661112",
     "address":{
@@ -37,7 +37,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Enthusiastic learner",
+    "skillmessage":"",
     "education":[
       {
         "school":"University of Sri Jayewardenepura",
@@ -122,7 +122,7 @@
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
+        "image":"resume-website.png",
         "url":"www.santhushaalwis.me"
       },
        {
