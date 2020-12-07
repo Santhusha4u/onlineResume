@@ -19,39 +19,21 @@
     "social":[
       {
         "name":"facebook",
-        "url":"",
+        "url":"https://www.facebook.com/santhusha.alwis.5",
         "className":"fa fa-facebook"
       },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/",
-        "className":"fa fa-google-plus"
-      },
+
       {
         "name":"linkedin",
-        "url":"",
+        "url":"https://www.linkedin.com/in/santhusha-alwis/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/",
+        "url":"http://github.com/Santhusha4u",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
+  
     ]
   },
   "resume":{
